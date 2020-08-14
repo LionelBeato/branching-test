@@ -1,6 +1,6 @@
 # Title
 
-This is my own title. I like it better.
+This is my title! Weeee!
 
 ## Feature 1
 
@@ -9,3 +9,7 @@ This is my own title. I like it better.
 - 3
 
 ## Feature 2
+
+- A
+- B
+- C
